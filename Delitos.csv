@@ -1,0 +1,28 @@
+Cod_del,Descr_del
+01,Robo total de vehículo
+02,Robo parcial de vehículo
+03,Vandalismo
+04,Robo en casa
+05,Robo en la calle
+06,Robo en forma distinta a casa o calle
+07,Fraude bancario
+08,Fraude al consumidor
+09,Extorsión
+10,Amenazas verbales
+11,Violencia física
+12,Secuestro
+13,Hostigamiento sexual
+14,Violación sexual
+15,Otros
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
